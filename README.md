@@ -20,7 +20,7 @@ This project uses:
 
 To check out this pretend Netflix homepage:
 
-1. Copy the project code: `git clone <repository-url>`
+1. Copy the project code: `git clone https://github.com/Suhelpatel786/netflix.git`
 2. Open the `index.html` file in your web browser.
 
 Look at how things are put together and styled to look like Netflix's page.
